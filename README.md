@@ -1,2 +1,5 @@
-# Olimpiadas-Matematicas
-Esta es la pag web de Olimpiadas Matematicas - Seccional Ubaté 🇨🇴 | Frameworks usados 📚 FileServer.js y PDF-Lib | Use #html 🩻 #css 🎨 #javascript 💛 | Desarrollado por @jlianacastillo | Ejecutalo aqui 👇🏻🙋🏼‍♀️
+# Olimpiadas Matematicas 2023
+
+* Esta es la pag web para las "Olimpiadas Matematicas 2023" - Seccional Ubaté 🇨🇴
+* Use #html 🩻 #css 🎨 #javascript 💛 
+* Realizada por @jlianacastillo
